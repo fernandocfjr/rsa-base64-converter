@@ -1,0 +1,9 @@
+{
+  "name": "rsa-to-base64",
+  "version": "1.0.0",
+  "description": "RSA to Base64 converter",
+  "main": "index.js",
+  "author": "Fernando Crepaldi F Jr",
+  "license": "MIT",
+  "private": true
+}
