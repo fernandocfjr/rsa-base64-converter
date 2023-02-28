@@ -1,7 +1,7 @@
 # RSA to Base64 - Key Converter
 ### Simplest code to convert RSA Key to Base64 - under 15 lines of code.  
 When developing on **Back-End of Nevellus**, I faced issues when attempting to work with RSA Keys on Env.  
-**Because the RSA Keys are multi-line.** _Env vars do not fit very well with multi-line vars._
+**Because the RSA Keys are multi-line.** _Env vars do not fit very well as multi-line vars._
 
 ## The solution:
 - Single-line Key.
